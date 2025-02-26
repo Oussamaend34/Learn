@@ -37,3 +37,4 @@ build/
 **/.DS_Store
 Spring/**/.gitignore
 Spring/**/.gitattributes
+**/__pycache__
